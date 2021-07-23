@@ -3,9 +3,10 @@
   <img src="https://raw.githubusercontent.com/cri-kim/img/main/cri-kim/20210723.JPG" style="width:100%">
   <!-- Body -->
   <div>
-    안녕하세요. 김수정입니다.
+    안녕하세요. 김수정입니다.<br/>
     오늘 하루도 더 나은 개발자가 되기 위해 노력하고있습니다.
   </div>
+  <br/>
   <div>
     <p>📚 Tech Stack</p>
     <img src="https://cdn.rawgit.com/konpa/devicon/master/icons/java/java-plain.svg" width="50px" height="50px"/>
