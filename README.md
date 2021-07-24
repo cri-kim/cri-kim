@@ -1,7 +1,6 @@
 <div align="center">
   <!-- Head Line-->
-  <img src="https://raw.githubusercontent.com/cri-kim/img/main/cri-kim/20210723.JPG" style="width:100%">
-  <!-- Body -->
+    <!-- Body -->
   <div>
     안녕하세요. 김수정입니다.<br/>
     어제보다 발전한 개발자가 되기 위해 노력하고있습니다.
