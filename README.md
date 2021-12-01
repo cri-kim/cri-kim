@@ -8,7 +8,7 @@
 *and more...*
 <!-- Footer -->
 ## Contact me: 
-  [<img src="https://cdn.rawgit.com/konpa/devicon/master/icons/github/github-original.svg" width="20px" height="20px"/>포트폴리오](https://cri-kim.github.io/portfolio)  
+  [<img src="https://cdn.rawgit.com/konpa/devicon/master/icons/github/github-original.svg" width="20px" height="20px"/>포트폴리오](https://cri-kim.github.io)  
   [💻Blog](https://67crystalk.tistory.com/)  
   ✉email : 67crystalk@gmail.com
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=cri-kim&label=Profile%20views&color=0e75b6&style=flat" alt="cri-kim" /> </p>
